@@ -1,8 +1,6 @@
 # GooglePlayStore-Analysis
 Google Play, also branded as the Google Play Store and formerly Android Market, is a digital distribution service operated and developed by Google. We have analyzed some trends that can help the creators for targeting specific customers.  
 
-![image](https://user-images.githubusercontent.com/107141644/177005384-b7caf358-1c65-4c94-a209-acb4379e82b5.png)  
-This graph shows us top 3 categories  
 
 ![image](https://user-images.githubusercontent.com/107141644/177005391-89e02c4a-3d0d-4365-962d-19b708b75388.png)  
 This graph shows us that the educational category is rated the most in terms of the rating counts. This clearly shows that the customers that install the educational apps are much likely to give a review.  
