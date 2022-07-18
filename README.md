@@ -21,5 +21,8 @@ Video lectures to have an escene of video player and editor category.
 Chat groups where teens can share their views and ask for help. This will cover some features of social category.  
 Short educational videos like youtube shorts and instagram reels can also be added.  
 <h3>Q4. What kind of apps should target adults.  </h3>
-We can see that from top 10 categories of adult choices the most installed is the sports category. This proved that adults are much into sports. Combinig Lifestyle and communication as one we can say they also have a significant number.  
+We can see that from top 10 categories of adult choices the most installed is the sports category. This proved that adults are much into sports. Combinig Lifestyle and communication as one we can say they also have a significant number.  <br>
 
+*For the data visuals kindly refer to the python script.* <br>
+
+**Thank you**
