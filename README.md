@@ -8,10 +8,11 @@ Hi there, I'm <a href="https://www.linkedin.com/in/mukuldeshantri/" target="_bla
 I'm a Data analyst 💻!!
 </h2> 
 Google Play, also branded as the Google Play Store and formerly Android Market, is a digital distribution service operated and developed by Google. We have analyzed some trends that can help the creators for targeting specific customers.Some of the important insights are listed below:
+
 <h3>Conclusion 1</h3>
 <h4>The below graph shows us that the educational category is rated the most in terms of the rating counts. This clearly shows that the customers that install the educational apps are much likely to give a review.</h4>
 <p align=”center”>
-<img width="1080" height="600" src="https://user-images.githubusercontent.com/107141644/179448626-bc8a5413-5702-4cf1-9c68-2798982f1008.png" alt="1stinsight”>
+  <img width="1080" height="600" src="https://user-images.githubusercontent.com/107141644/179448626-bc8a5413-5702-4cf1-9c68-2798982f1008.png"       alt="1stinsight”>
 </p>  
 
 
