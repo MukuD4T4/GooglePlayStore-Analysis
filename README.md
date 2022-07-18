@@ -5,7 +5,7 @@
 Hi there, I'm <a href="https://www.linkedin.com/in/mukuldeshantri/" target="_blank" rel="noreferrer">Mukul</a> 👋
 </h3>
 <h2 align="center">
-I'm a Data analyst 💻!
+I'm a Data analyst 💻!!
 </h2> 
 Google Play, also branded as the Google Play Store and formerly Android Market, is a digital distribution service operated and developed by Google. We have analyzed some trends that can help the creators for targeting specific customers.Some of the important insights are listed below:
 <h3>Conclusion 1</h3>
